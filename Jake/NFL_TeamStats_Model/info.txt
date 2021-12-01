@@ -1,0 +1,4 @@
+Scores & Odds Data:
+https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data?select=spreadspoke_scores.csv
+Team Stats - 2002 - 2021:
+https://www.kaggle.com/cviaxmiwnptr/nfl-team-stats-20022019-espn?select=nfl_team_stats_2002-2020.csv

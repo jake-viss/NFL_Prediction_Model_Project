@@ -1,0 +1,18 @@
+,week,away_name,home_name,home_team_win_%,away_team_win_%,Projected Winner,Actual Winner,Projected Right,Accuracy
+32,4,Jacksonville Jaguars,Cincinnati Bengals,0.165167932,0.834832068,Cincinnati Bengals,Cincinnati Bengals,1,
+33,4,Houston Texans,Buffalo Bills,0.181747043,0.818252957,Buffalo Bills,Buffalo Bills,1,
+34,4,Washington Football Team,Atlanta Falcons,0.417796196,0.582203804,Atlanta Falcons,Washington Football Team,0,
+35,4,Kansas City Chiefs,Philadelphia Eagles,0.818763705,0.181236295,Kansas City Chiefs,Kansas City Chiefs,1,
+36,4,Tennessee Titans,New York Jets,0.40790663,0.59209337,New York Jets,New York Jets,1,
+37,4,New York Giants,New Orleans Saints,0.702132254,0.297867746,New York Giants,New York Giants,1,
+38,4,Cleveland Browns,Minnesota Vikings,0.992004595,0.007995405,Cleveland Browns,Cleveland Browns,1,
+39,4,Indianapolis Colts,Miami Dolphins,0.96792526,0.03207474,Indianapolis Colts,Indianapolis Colts,1,
+40,4,Carolina Panthers,Dallas Cowboys,0.180142336,0.819857664,Dallas Cowboys,Dallas Cowboys,1,
+41,4,Detroit Lions,Chicago Bears,0.319205605,0.680794395,Chicago Bears,Chicago Bears,1,
+42,4,Seattle Seahawks,San Francisco 49ers,0.827213953,0.172786047,Seattle Seahawks,Seattle Seahawks,1,
+43,4,Arizona Cardinals,Los Angeles Rams,0.987928194,0.012071806,Arizona Cardinals,Arizona Cardinals,1,
+44,4,Pittsburgh Steelers,Green Bay Packers,0.309811194,0.690188806,Green Bay Packers,Green Bay Packers,1,
+45,4,Baltimore Ravens,Denver Broncos,0.959077746,0.040922254,Baltimore Ravens,Baltimore Ravens,1,
+46,4,Tampa Bay Buccaneers,New England Patriots,0.433189074,0.566810926,New England Patriots,Tampa Bay Buccaneers,0,
+47,4,Las Vegas Raiders,Los Angeles Chargers,0.501227294,0.498772706,Las Vegas Raiders,Los Angeles Chargers,0,
+,,,,,,,,13,0.8125

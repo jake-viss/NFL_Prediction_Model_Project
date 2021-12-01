@@ -1,0 +1,2 @@
+Using code, information and data from this website:
+https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/
