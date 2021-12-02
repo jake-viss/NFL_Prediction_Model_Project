@@ -1,2 +1,4 @@
 Using code, information and data from this website:
 https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/
+
+In the NFL_game_prediction model, the model is predicting the chance of the away team winning.
