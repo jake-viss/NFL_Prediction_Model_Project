@@ -1,0 +1,15 @@
+,week,away_name,home_name,away_team_win_%,home_team_win_%,predicted_winner,O/U,Proj_home_points,Proj_away_points,Proj_spread
+163,13,Dallas Cowboys,New Orleans Saints,0.853614473,0.146385527,Dallas Cowboys,45.5,7,39,-32
+164,13,Arizona Cardinals,Chicago Bears,0.822232267,0.177767733,Arizona Cardinals,46.5,8,38,-30
+165,13,Tampa Bay Buccaneers,Atlanta Falcons,0.850056351,0.149943649,Tampa Bay Buccaneers,50.5,8,43,-35
+166,13,Philadelphia Eagles,New York Jets,0.40349136,0.59650864,New York Jets,45,27,18,9
+167,13,New York Giants,Miami Dolphins,0.43154494,0.56845506,Miami Dolphins,43.5,25,19,6
+168,13,Denver Broncos,Kansas City Chiefs,0.367492568,0.632507432,Kansas City Chiefs,49.5,31,18,13
+169,13,Indianapolis Colts,Houston Texans,0.917509388,0.082490612,Indianapolis Colts,47,4,43,-39
+170,13,Minnesota Vikings,Detroit Lions,0.68827914,0.31172086,Minnesota Vikings,48,15,33,-18
+171,13,Los Angeles Chargers,Cincinnati Bengals,0.292227933,0.707772067,Cincinnati Bengals,48,34,14,20
+172,13,Washington Football Team,Las Vegas Raiders,0.502035694,0.497964306,Washington Football Team,48,24,24,0
+173,13,Jacksonville Jaguars,Los Angeles Rams,0.171493566,0.828506434,Los Angeles Rams,48,40,8,32
+174,13,Baltimore Ravens,Pittsburgh Steelers,0.88784535,0.11215465,Baltimore Ravens,45,5,40,-35
+175,13,San Francisco 49ers,Seattle Seahawks,0.743929107,0.256070893,San Francisco 49ers,46,12,34,-22
+176,13,New England Patriots,Buffalo Bills,0.401713692,0.598286308,Buffalo Bills,46,28,18,9

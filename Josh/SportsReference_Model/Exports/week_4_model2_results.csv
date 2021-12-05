@@ -1,0 +1,17 @@
+week,away_name,home_name,away_team_win_%,home_team_win_%,predicted_winner,actual_winner
+4,Arizona Cardinals,Los Angeles Rams,0.9904802617094847,0.009519738290515334,Arizona Cardinals,Arizona Cardinals
+4,Baltimore Ravens,Denver Broncos,0.9378229479867185,0.0621770520132815,Baltimore Ravens,Baltimore Ravens
+4,Carolina Panthers,Dallas Cowboys,0.22245710534812488,0.7775428946518751,Dallas Cowboys,Dallas Cowboys
+4,Cleveland Browns,Minnesota Vikings,0.9819992048451736,0.018000795154826443,Cleveland Browns,Cleveland Browns
+4,Detroit Lions,Chicago Bears,0.50697154786472,0.49302845213528,Detroit Lions,Chicago Bears
+4,Houston Texans,Buffalo Bills,0.08304571456024973,0.9169542854397503,Buffalo Bills,Buffalo Bills
+4,Indianapolis Colts,Miami Dolphins,0.9255934044453508,0.07440659555464924,Indianapolis Colts,Indianapolis Colts
+4,Jacksonville Jaguars,Cincinnati Bengals,0.09538623872897875,0.9046137612710212,Cincinnati Bengals,Cincinnati Bengals
+4,Kansas City Chiefs,Philadelphia Eagles,0.8120172140131174,0.18798278598688256,Kansas City Chiefs,Kansas City Chiefs
+4,Las Vegas Raiders,Los Angeles Chargers,0.3317693774418661,0.6682306225581339,Los Angeles Chargers,Los Angeles Chargers
+4,New York Giants,New Orleans Saints,0.7755270265938828,0.22447297340611716,New York Giants,New York Giants
+4,Pittsburgh Steelers,Green Bay Packers,0.2097958183383189,0.7902041816616812,Green Bay Packers,Green Bay Packers
+4,Seattle Seahawks,San Francisco 49ers,0.934091919032164,0.06590808096783596,Seattle Seahawks,Seattle Seahawks
+4,Tampa Bay Buccaneers,New England Patriots,0.5236733317608042,0.4763266682391958,Tampa Bay Buccaneers,Tampa Bay Buccaneers
+4,Tennessee Titans,New York Jets,0.6836039585903869,0.3163960414096131,Tennessee Titans,New York Jets
+4,Washington Football Team,Atlanta Falcons,0.2647476785164705,0.7352523214835295,Atlanta Falcons,Washington Football Team
