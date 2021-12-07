@@ -1,16 +1,16 @@
 week,away_name,home_name,away_team_win_%,home_team_win_%,predicted_winner,actual_winner,Accuracy
-12,Atlanta Falcons,Jacksonville Jaguars,0.79648113,0.20351887,Atlanta Falcons,Atlanta Falcons,1
-12,Buffalo Bills,New Orleans Saints,0.97604316,0.023956835,Buffalo Bills,Buffalo Bills,1
-12,Carolina Panthers,Miami Dolphins,0.131872,0.868128,Miami Dolphins,Miami Dolphins,1
-12,Chicago Bears,Detroit Lions,0.72620815,0.27379185,Chicago Bears,Chicago Bears,1
-12,Cleveland Browns,Baltimore Ravens,0.131872,0.868128,Baltimore Ravens,Baltimore Ravens,1
-12,Las Vegas Raiders,Dallas Cowboys,0.16925055,0.83074945,Dallas Cowboys,Las Vegas Raiders,0
-12,Los Angeles Chargers,Denver Broncos,0.131872,0.868128,Denver Broncos,Denver Broncos,1
-12,Los Angeles Rams,Green Bay Packers,0.131872,0.868128,Green Bay Packers,Green Bay Packers,1
-12,Minnesota Vikings,San Francisco 49ers,0.9999622,3.7789345e-05,Minnesota Vikings,San Francisco 49ers,0
-12,New York Jets,Houston Texans,0.131872,0.868128,Houston Texans,New York Jets,0
-12,Philadelphia Eagles,New York Giants,0.9999975,2.503395e-06,Philadelphia Eagles,New York Giants,0
-12,Pittsburgh Steelers,Cincinnati Bengals,0.97075164,0.029248357,Pittsburgh Steelers,Cincinnati Bengals,0
-12,Seattle Seahawks,Washington Football Team,0.7850708,0.21492922,Seattle Seahawks,Washington Football Team,0
-12,Tampa Bay Buccaneers,Indianapolis Colts,0.7151347,0.28486532,Tampa Bay Buccaneers,Tampa Bay Buccaneers,1
-12,Tennessee Titans,New England Patriots,0.33823133,0.6617687,New England Patriots,New England Patriots,1
+12,Atlanta Falcons,Jacksonville Jaguars,0.9999882,1.180172e-05,Atlanta Falcons,Atlanta Falcons,1
+12,Buffalo Bills,New Orleans Saints,0.99970835,0.00029164553,Buffalo Bills,Buffalo Bills,1
+12,Carolina Panthers,Miami Dolphins,0.7584061,0.2415939,Carolina Panthers,Miami Dolphins,0
+12,Chicago Bears,Detroit Lions,0.9998144,0.00018560886,Chicago Bears,Chicago Bears,1
+12,Cleveland Browns,Baltimore Ravens,0.1284279,0.87157214,Baltimore Ravens,Baltimore Ravens,1
+12,Las Vegas Raiders,Dallas Cowboys,0.1284279,0.87157214,Dallas Cowboys,Las Vegas Raiders,0
+12,Los Angeles Chargers,Denver Broncos,0.97561467,0.024385333,Los Angeles Chargers,Denver Broncos,0
+12,Los Angeles Rams,Green Bay Packers,0.8933537,0.1066463,Los Angeles Rams,Green Bay Packers,0
+12,Minnesota Vikings,San Francisco 49ers,0.848016,0.15198398,Minnesota Vikings,San Francisco 49ers,0
+12,New York Jets,Houston Texans,0.9407027,0.059297323,New York Jets,New York Jets,1
+12,Philadelphia Eagles,New York Giants,0.98090625,0.019093752,Philadelphia Eagles,New York Giants,0
+12,Pittsburgh Steelers,Cincinnati Bengals,0.839608,0.16039199,Pittsburgh Steelers,Cincinnati Bengals,0
+12,Seattle Seahawks,Washington Football Team,0.1284279,0.87157214,Washington Football Team,Washington Football Team,1
+12,Tampa Bay Buccaneers,Indianapolis Colts,0.20399532,0.79600465,Indianapolis Colts,Tampa Bay Buccaneers,0
+12,Tennessee Titans,New England Patriots,0.99467784,0.0053221583,Tennessee Titans,New England Patriots,0
