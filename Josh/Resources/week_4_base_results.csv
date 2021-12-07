@@ -1,0 +1,17 @@
+week,away_name,home_name,away_team_win_%,home_team_win_%,predicted_winner,actual_winner,Accuracy
+4,Arizona Cardinals,Los Angeles Rams,0.6040153,0.3959847,Arizona Cardinals,Arizona Cardinals,1
+4,Baltimore Ravens,Denver Broncos,0.64769435,0.35230565,Baltimore Ravens,Baltimore Ravens,1
+4,Carolina Panthers,Dallas Cowboys,0.18300089,0.8169991,Dallas Cowboys,Dallas Cowboys,1
+4,Cleveland Browns,Minnesota Vikings,0.64769435,0.35230565,Cleveland Browns,Cleveland Browns,1
+4,Detroit Lions,Chicago Bears,0.5400174,0.45998257,Detroit Lions,Chicago Bears,0
+4,Houston Texans,Buffalo Bills,9.5564275e-05,0.99990445,Buffalo Bills,Buffalo Bills,1
+4,Indianapolis Colts,Miami Dolphins,0.64769435,0.35230565,Indianapolis Colts,Indianapolis Colts,1
+4,Jacksonville Jaguars,Cincinnati Bengals,0.38084495,0.61915505,Cincinnati Bengals,Cincinnati Bengals,1
+4,Kansas City Chiefs,Philadelphia Eagles,0.64769435,0.35230565,Kansas City Chiefs,Kansas City Chiefs,1
+4,Las Vegas Raiders,Los Angeles Chargers,0.64769435,0.35230565,Las Vegas Raiders,Los Angeles Chargers,0
+4,New York Giants,New Orleans Saints,0.64769435,0.35230565,New York Giants,New York Giants,1
+4,Pittsburgh Steelers,Green Bay Packers,0.12315452,0.8768455,Green Bay Packers,Green Bay Packers,1
+4,Seattle Seahawks,San Francisco 49ers,0.17738494,0.822615,San Francisco 49ers,Seattle Seahawks,0
+4,Tampa Bay Buccaneers,New England Patriots,0.2823162,0.7176838,New England Patriots,Tampa Bay Buccaneers,0
+4,Tennessee Titans,New York Jets,0.3526511,0.6473489,New York Jets,New York Jets,1
+4,Washington Football Team,Atlanta Falcons,0.21118727,0.78881276,Atlanta Falcons,Washington Football Team,0
