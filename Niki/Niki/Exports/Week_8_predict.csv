@@ -1,0 +1,16 @@
+week,away_name,home_name,away_team_win_%,home_team_win_%,predicted_winner,actual_winner
+8,Carolina Panthers,Atlanta Falcons,0.0,1.0,Atlanta Falcons,Carolina Panthers
+8,Cincinnati Bengals,New York Jets,1.0,0.0,Cincinnati Bengals,New York Jets
+8,Dallas Cowboys,Minnesota Vikings,1.0,0.0,Dallas Cowboys,Dallas Cowboys
+8,Green Bay Packers,Arizona Cardinals,1.0,0.0,Green Bay Packers,Green Bay Packers
+8,Jacksonville Jaguars,Seattle Seahawks,1.0,0.0,Jacksonville Jaguars,Seattle Seahawks
+8,Los Angeles Rams,Houston Texans,1.0,0.0,Los Angeles Rams,Los Angeles Rams
+8,Miami Dolphins,Buffalo Bills,0.0,1.0,Buffalo Bills,Buffalo Bills
+8,New England Patriots,Los Angeles Chargers,0.0,1.0,Los Angeles Chargers,New England Patriots
+8,New York Giants,Kansas City Chiefs,0.0,1.0,Kansas City Chiefs,Kansas City Chiefs
+8,Philadelphia Eagles,Detroit Lions,1.0,0.0,Philadelphia Eagles,Philadelphia Eagles
+8,Pittsburgh Steelers,Cleveland Browns,0.0,1.0,Cleveland Browns,Pittsburgh Steelers
+8,San Francisco 49ers,Chicago Bears,1.0,0.0,San Francisco 49ers,San Francisco 49ers
+8,Tampa Bay Buccaneers,New Orleans Saints,1.0,0.0,Tampa Bay Buccaneers,New Orleans Saints
+8,Tennessee Titans,Indianapolis Colts,1.0,0.0,Tennessee Titans,Tennessee Titans
+8,Washington Football Team,Denver Broncos,0.0,1.0,Denver Broncos,Denver Broncos
