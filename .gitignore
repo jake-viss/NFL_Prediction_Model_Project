@@ -130,3 +130,9 @@ dmypy.json
 
 # Add DS_Store
 .DS_Store
+
+# Add .env files
+.env
+
+# Add .json files
+.json
