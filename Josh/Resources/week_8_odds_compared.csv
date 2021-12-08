@@ -1,16 +1,24 @@
-,week,away_name,home_name,away_team_win_%,home_team_win_%,predicted_winner,actual_winner,Accuracy,"American Odds (Away Team, Home Team)","Fractional Odds (Away Team, Home Team)","Decimal Odds (Away Team, Home Team)"
-0,8,Carolina Panthers,Atlanta Falcons,0.02377516,0.97622484,Atlanta Falcons,Carolina Panthers,0,"(4106.0, -4106.0)","(Fraction(41, 1), Fraction(0, 1))","(42.06, 1.02)"
-1,8,Cincinnati Bengals,New York Jets,0.13184264,0.8681574,New York Jets,New York Jets,1,"(658.0, -658.0)","(Fraction(7, 1), Fraction(1, 8))","(7.58, 1.15)"
-2,8,Dallas Cowboys,Minnesota Vikings,5.7729856e-05,0.99994224,Minnesota Vikings,Dallas Cowboys,0,"(1732106.0, -1731202.0)","(Fraction(17321, 1), Fraction(0, 1))","(17322.06, 1.0)"
-3,8,Green Bay Packers,Arizona Cardinals,0.24093819,0.7590618,Arizona Cardinals,Green Bay Packers,0,"(315.0, -315.0)","(Fraction(3, 1), Fraction(5, 16))","(4.15, 1.32)"
-4,8,Jacksonville Jaguars,Seattle Seahawks,0.62736535,0.37263465,Jacksonville Jaguars,Seattle Seahawks,0,"(-168.0, 168.0)","(Fraction(5, 8), Fraction(2, 1))","(1.6, 2.68)"
-5,8,Los Angeles Rams,Houston Texans,0.79414773,0.20585227,Los Angeles Rams,Los Angeles Rams,1,"(-386.0, 386.0)","(Fraction(1, 4), Fraction(4, 1))","(1.26, 4.86)"
-6,8,Miami Dolphins,Buffalo Bills,4.435793e-05,0.99995565,Buffalo Bills,Buffalo Bills,1,"(2254288.0, -2254691.0)","(Fraction(22543, 1), Fraction(0, 1))","(22543.88, 1.0)"
-7,8,New England Patriots,Los Angeles Chargers,0.79414773,0.20585227,New England Patriots,New England Patriots,1,"(-386.0, 386.0)","(Fraction(1, 4), Fraction(4, 1))","(1.26, 4.86)"
-8,8,New York Giants,Kansas City Chiefs,0.00039851665,0.9996015,Kansas City Chiefs,Kansas City Chiefs,1,"(250831.0, -250841.0)","(Fraction(2508, 1), Fraction(0, 1))","(2509.31, 1.0)"
-9,8,Philadelphia Eagles,Detroit Lions,0.79414773,0.20585227,Philadelphia Eagles,Philadelphia Eagles,1,"(-386.0, 386.0)","(Fraction(1, 4), Fraction(4, 1))","(1.26, 4.86)"
-10,8,Pittsburgh Steelers,Cleveland Browns,0.00023365021,0.99976635,Cleveland Browns,Pittsburgh Steelers,0,"(427890.0, -427891.0)","(Fraction(4279, 1), Fraction(0, 1))","(4279.9, 1.0)"
-11,8,San Francisco 49ers,Chicago Bears,0.57185364,0.42814636,San Francisco 49ers,San Francisco 49ers,1,"(-134.0, 134.0)","(Fraction(3, 4), Fraction(1, 1))","(1.75, 2.34)"
-12,8,Tampa Bay Buccaneers,New Orleans Saints,0.69079155,0.30920845,Tampa Bay Buccaneers,New Orleans Saints,0,"(-223.0, 223.0)","(Fraction(7, 16), Fraction(2, 1))","(1.45, 3.23)"
-13,8,Tennessee Titans,Indianapolis Colts,0.79414773,0.20585227,Tennessee Titans,Tennessee Titans,1,"(-386.0, 386.0)","(Fraction(1, 4), Fraction(4, 1))","(1.26, 4.86)"
-14,8,Washington Football Team,Denver Broncos,0.28978345,0.7102165,Denver Broncos,Denver Broncos,1,"(245.0, -245.0)","(Fraction(2, 1), Fraction(7, 16))","(3.45, 1.41)"
+"WEEK 8, 2021",Matchup,Model Prediction,Caesars Sportsbook,Actual Winner,Beat Vegas? ,,"WEEK 8, 2021",Matchup,Model Prediction,Caesars Sportsbook,Actual Winner,Beat Vegas? 
+,Buffalo Bills,-2254691,-1100,x,TIE,,,Seattle Seahawks,168,-200,x,LOSS
+,Miami Dolphins,2254288,700,,,,,Jacksonville Jaguars,-168,170,,
+,,,,,,,,,,,,
+,Atlanta Falcons,-4106,-125,,,,,Los Angeles Chargers,386,-200,,
+,Carolina Panthers,4106,105,x,TIE,,,New England Patriots,-386,170,x,WIN
+,,,,,,,,,,,,
+,Detroit Lions,386,145,,,,,Denver Broncos,-245,-200,x,TIE
+,Philadelphia Eagles,-386,-170,x,TIE,,,Washington Football Team,245,170,,
+,,,,,,,,,,,,
+,Indianapolis Colts,386,-160,,,,,New Orleans Saints,223,170,x,TIE
+,Tennessee Titans,-386,140,x,WIN,,,Tampa Bay Buccaneers,-223,-200,,
+,,,,,,,,,,,,
+,Houston Texans,386,800,,,,,Dallas Cowboys,1731202,175,x,TIE
+,Los Angeles Rams,-386,-1400,x,TIE,,,Minnesota Vikings,-1731202,-210,,
+,,,,,,,,,,,,
+,New York Jets,-658,425,x,WIN,,,New York Giants,250841,425,,
+,Cincinnati Bengals,658,-600,,,,,Kansas City Chiefs,-250841,-600,x,TIE
+,,,,,,,,,,,,
+,Cleveland Browns,-427891,-230,,,,,Arizona Cardinals,-315,-280,,
+,Pittsburgh Steelers,427890,190,x,TIE,,,Green Bay Packers,315,230,x,TIE
+,,,,,,,,,,,,
+,Chicago Bears,134,180,,,,,,,,,
+,San Francisco 49ers,-134,-220,x,TIE,,,,,,,
