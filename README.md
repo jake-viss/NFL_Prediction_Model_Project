@@ -9,7 +9,19 @@ To develop and compare multiple machine learning models and to make predictions 
 While scoping this project, we found lots of information on sports predictions.  After vetting a few data sources, we found the API from Sports-Refernace.com to be the most straightforward API to use.  We also completed a reasonableness validation and reviewed Sports-Refernace.com projection data vs. posted box scores.  IN addition to reviewing overall reasonableness, the team also spent a few hours reviewing the code by line to ensure we understood how the results were calculated.  
 
 ## Data Preparation
-Using the API, we pulled all statistical data available for completed games and the schedule of future games. We then created a weekly prediction data frame to enable the ability to analyze both historical week accuracy and to predict the win/ loss in the coming weeks. All win/loss predictions were the results of the away team win (1) vs. a home team (0).     
+Using the API, we pulled all statistical data available for completed games and the schedule of future games. We then created a weekly prediction data frame to enable the ability to analyze both historical week accuracy and to predict the win/ loss in the coming weeks. All win/loss predictions were the results of the away team win (1) vs. a home team (0).
+
+## Data Sources
+
+The sources of data are as follows:
+
+* [Sportsipy API](https://sportsreference.readthedocs.io/en/stable/) - API used to pull the most recent NFL games statistics. 
+
+* [Sports-Reference.com](https://www.pro-football-reference.com/) - API used to pull the most recent NFL games statistics.
+
+* [FiveThirtyEight - ELO Rating](https://github.com/fivethirtyeight/nfl-elo-game) - API used to pull the most recent NFL ELO statistics. 
+
+* [NFL Team Stats 2002-2020 (Kaggle)](https://www.kaggle.com/cviaxmiwnptr/nfl-team-stats-20022019-espn?select=nfl_team_stats_2002-2020.csv) - NFL statistics for 2002 - 2020 NFL seasons. 
 
 ## Machine Learning Models 
 We applied the prepared week data set to the following models: Logistic Regression Scaled, Logistic Regression Unscaled, Random Forest, and  Neural Network/ Tensorflow.  Of the models tested, the Random Forest learning model reflected the highest predicted of game outcomes between the weeks of 2-13, at a prediction rate of 66.2%     
