@@ -1,4 +1,4 @@
-# NFL Predictions 
+# NFL Predictions - Creating a Machine Learning Model to Predict NFL Matchups 
 ## Summary 
 Where there is an opportunity for financial gain, there is often innovation. Due to the statistical nature of sports, machine learning methodologies seemed like a perfect fit for making sports game predictions. 
 
@@ -39,7 +39,33 @@ Example: Denver Broncos vs. Detroit Lions (W14)
 * Broncos -375
 * Assuming you bet a sample of 100 bets on -375 favorites, you would need a prediction percentage of 79% to break even.
 
+## Technologies
 
+This project leverages JupyterLab Version 3.0.14 in association with Anaconda distribution and the Conda package manager.  The following packages are also used: 
+
+* [pandas](https://github.com/pandas-dev/pandas) - Data analysis toolkit for Python.
+
+* [sklearn](https://scikit-learn.org/stable/) - Predictive data analysis.
+
+* [keras](https://keras.io/) - Deep learning API running on top TensorFlow.
+
+* [hvPlot](https://github.com/holoviz/hvplot) - A high-level plotting API for the PyData ecosystem built on HoloViews.
+
+## Installation
+
+Before running the application, install Python modules Pandas, hvPlot, SQLAlchemy and Voila:
+
+```python
+
+  conda install pandas
+
+  conda install -c pyviz hvplot
+
+  pip install -U scikit-learn
+
+  pip install tensorflow
+
+```
 ## Addendum / Supporting Details
 
 ![averages](https://github.com/jake-viss/UW_Fintech_Project_2/blob/main/Resources/season_averages.PNG)  
