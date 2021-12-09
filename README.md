@@ -65,6 +65,8 @@ Before running the application, install Python modules Pandas, hvPlot, sklearn, 
 
 ```
 ## Addendum / Supporting Details
+Tableau Reporting 
+https://public.tableau.com/app/profile/lisa.bailey/viz/NFLPredictionModelAccuracy/NFLPredictionModelAccuracy
 
 ![averages](https://github.com/jake-viss/UW_Fintech_Project_2/blob/main/Resources/season_averages.PNG)  
 ![weekly_comp](https://github.com/jake-viss/UW_Fintech_Project_2/blob/main/Resources/weekly_comp.PNG) 
