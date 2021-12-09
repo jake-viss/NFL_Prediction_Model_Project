@@ -6,7 +6,7 @@ Where there is an opportunity for financial gain, there is often innovation. Due
 To develop and compare multiple machine learning models and to make predictions on NFL matches. 
 
 ## Scoping 
-While scoping this project, we found lots of information on sports predictions.  After vetting a few data sources, we found the API from Sports-Refernace.com to be the most straightforward API to use.  We also completed a reasonableness validation and reviewed Sports-Refernace.com projection data vs. posted box scores.  IN addition to reviewing overall reasonableness, the team also spent a few hours reviewing the code by line to ensure we understood how the results were calculated.  
+While scoping this project, we found lots of information on sports predictions.  After vetting a few data sources, we found the API from Sports-Reference.com to be the most straightforward API to use.  We also completed a reasonableness validation and reviewed Sports-Reference.com projection data vs. posted box scores.  IN addition to reviewing overall reasonableness, the team also spent a few hours reviewing the code by line to ensure we understood how the results were calculated.  
 
 ## Data Preparation
 Using the API, we pulled all statistical data available for completed games and the schedule of future games. We then created a weekly prediction data frame to enable the ability to analyze both historical week accuracy and to predict the win/ loss in the coming weeks. All win/loss predictions were the results of the away team win (1) vs. a home team (0).
