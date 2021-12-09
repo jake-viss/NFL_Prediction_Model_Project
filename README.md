@@ -13,8 +13,6 @@ Using the API, we pulled all statistical data available for completed games and 
 
 ## Data Sources
 
-The sources of data are as follows:
-
 * [Sportsipy API](https://sportsreference.readthedocs.io/en/stable/) - API used to pull the most recent NFL games statistics. 
 
 * [Sports-Reference.com](https://www.pro-football-reference.com/) - API used to pull the most recent NFL games statistics.
