@@ -11,18 +11,24 @@ While scoping this project, we found lots of information on sports predictions. 
 ## Data Preparation
 Using the API, we pulled all statistical data available for completed games and the schedule of future games. We then created a weekly prediction data frame to enable the ability to analyze both historical week accuracy and to predict the win/ loss in the coming weeks. All win/loss predictions were the results of the away team win (1) vs. a home team (0).
 
+**Refer to Sportsipy_Create_Dataset_Notebook**
+
 ## Data Sources
 
 * [Sportsipy API](https://sportsreference.readthedocs.io/en/stable/) - API used to pull the most recent NFL games statistics. 
 
 * [Sports-Reference.com](https://www.pro-football-reference.com/) - API used to pull the most recent NFL games statistics.
 
+* [How To Predict NFL Winners Guide](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/) - Guide used to assist in using API
+
 * [FiveThirtyEight - ELO Rating](https://github.com/fivethirtyeight/nfl-elo-game) - API used to pull the most recent NFL ELO statistics. 
 
 * [NFL Team Stats 2002-2020 (Kaggle)](https://www.kaggle.com/cviaxmiwnptr/nfl-team-stats-20022019-espn?select=nfl_team_stats_2002-2020.csv) - NFL statistics for 2002 - 2020 NFL seasons. 
 
 ## Machine Learning Models 
-We applied the prepared week data set to the following models: Logistic Regression Scaled, Logistic Regression Unscaled, Random Forest, and  Neural Network/ Tensorflow.  Of the models tested, the Random Forest learning model reflected the highest predicted of game outcomes between the weeks of 2-13, at a prediction rate of 66.2%     
+We applied the prepared week data set to the following models: Logistic Regression Scaled, Logistic Regression Unscaled, Random Forest, and  Neural Network/ Tensorflow.  Of the models tested, the Random Forest learning model reflected the highest predicted of game outcomes between the weeks of 2-13, at a prediction rate of 66.2% 
+
+**Refer to Model_Prediction_Workbook**
 
 ## Conclusion
 Were we successful? 
@@ -37,7 +43,9 @@ Example: Denver Broncos vs. Detroit Lions (W14)
 * Broncos -375
 * Assuming you bet a sample of 100 bets on -375 favorites, you would need a prediction percentage of 79% to break even.
 
-To further explain, we do feel that the project was a success. We initially set out to create a model that could predict at least 60% of NFL games accurately. At that rate we thought there was a chance to make money. Our best model returnd an average accuracy throughout the season of 66% so we did succeed in hitting that mark. Furthermore, we now have multiple base models that we can update, iterate through, and try to improve. We also feel sucessfull for this reason. However, our model does predict a lot of favored teams and when betting on favorites your return on your wager is a lot less. Your losses hurt you more than your wins help you. Therefore, in order to make money while betting on favorites we would need a higher accuracy rate than 66%. We will need to do further analysis on our model to determine if it has an appropriate accuracy level when just considering betting on favorites.
+To further explain, we do feel that the project was a success. We initially set out to create a model that could predict at least 60% of NFL games accurately. At that rate we thought there was a chance to make money. Our best model returnd an average accuracy throughout the season of 66% so we did succeed in hitting that mark. Furthermore, we now have multiple base models that we can update, iterate through, and try to improve. We also feel sucessfull for this reason.  
+
+However, our model does predict a lot of favored teams and when betting on favorites, the return on your wager is a lot less (than if it was an even match). Your losses hurt you more than your wins help you. Therefore, in order to make money while betting on favorites we would need a higher accuracy rate than 66%. We will need to do further analysis on our model to determine if it has an appropriate accuracy level when just considering betting on favorites.
 
 Also, when we compared our predictions to Ceasars Sportsbook for week 8 of this season we actually out predicted them by one game. We plan to do further comparison against major sportsbooks to grade our models.
 
