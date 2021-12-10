@@ -1,0 +1,15 @@
+week,away_name,home_name,away_team_win_%,home_team_win_%,predicted_winner,actual_winner
+14,Atlanta Falcons,Carolina Panthers,0.77,0.22999999999999998,Atlanta Falcons,
+14,Baltimore Ravens,Cleveland Browns,0.85,0.15000000000000002,Baltimore Ravens,
+14,Buffalo Bills,Tampa Bay Buccaneers,0.6,0.4,Buffalo Bills,
+14,Chicago Bears,Green Bay Packers,0.13,0.87,Green Bay Packers,
+14,Dallas Cowboys,Washington Football Team,0.63,0.37,Dallas Cowboys,
+14,Detroit Lions,Denver Broncos,0.21,0.79,Denver Broncos,
+14,Jacksonville Jaguars,Tennessee Titans,0.32,0.6799999999999999,Tennessee Titans,
+14,Las Vegas Raiders,Kansas City Chiefs,0.22,0.78,Kansas City Chiefs,
+14,Los Angeles Rams,Arizona Cardinals,0.57,0.43000000000000005,Los Angeles Rams,
+14,New Orleans Saints,New York Jets,0.54,0.45999999999999996,New Orleans Saints,
+14,New York Giants,Los Angeles Chargers,0.23,0.77,Los Angeles Chargers,
+14,Pittsburgh Steelers,Minnesota Vikings,0.44,0.56,Minnesota Vikings,Minnesota Vikings
+14,San Francisco 49ers,Cincinnati Bengals,0.41,0.5900000000000001,Cincinnati Bengals,
+14,Seattle Seahawks,Houston Texans,0.58,0.42000000000000004,Seattle Seahawks,

@@ -37,6 +37,19 @@ Example: Denver Broncos vs. Detroit Lions (W14)
 * Broncos -375
 * Assuming you bet a sample of 100 bets on -375 favorites, you would need a prediction percentage of 79% to break even.
 
+To further explain, we do feel that the project was a success. We initially set out to create a model that could predict at least 60% of NFL games accurately. At that rate we thought there was a chance to make money. Our best model returnd an average accuracy throughout the season of 66% so we did succeed in hitting that mark. Furthermore, we now have multiple base models that we can update, iterate through, and try to improve. We also feel sucessfull for this reason. However, our model does predict a lot of favored teams and when betting on favorites your return on your wager is a lot less. Your losses hurt you more than your wins help you. Therefore, in order to make money while betting on favorites we would need a higher accuracy rate than 66%. We will need to do further analysis on our model to determine if it has an appropriate accuracy level when just considering betting on favorites.
+
+Also, when we compared our predictions to Ceasars Sportsbook for week 8 of this season we actually out predicted them by one game. We plan to do further comparison against major sportsbooks to grade our models.
+
+Our key next steps to improve our NFL prediction models are to:
+* Add Rolling Window or Trending Features which will enable the model to spot mid-season up-trends and down-trends.
+* Add more defense stat features to our model
+
+Our key next steps to enhance our model usage are (in terms of using the model to make smart wagers):
+* Find an API to bring in live bettings odds to add to our betting sheet dataframe.
+* Use compare confidence intervals & betting odds to find "best bets"
+
+
 ## Technologies
 
 This project leverages JupyterLab Version 3.0.14 in association with Anaconda distribution and the Conda package manager.  The following packages are also used: 
@@ -51,7 +64,7 @@ This project leverages JupyterLab Version 3.0.14 in association with Anaconda di
 
 ## Installation
 
-Before running the application, install Python modules Pandas, hvPlot, sklearn, and SQLAlchemy:
+Before running the application, install Python modules Pandas, hvPlot, sklearn, and tensorflow:
 
 ```python
 
