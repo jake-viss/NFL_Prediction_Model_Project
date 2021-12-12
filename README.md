@@ -31,7 +31,7 @@ We applied the prepared week data set to the following models: Logistic Regressi
 **Refer to Model_Prediction_Workbook**
 
 ## Conclusion
-Were we successful? 
+Were we successful? Examples to consider:
 * To win money on a bet with -110 odds, a winning percentage of 52.4% is needed.
 * Our best model returned a winning percentage of 66.2%.
 
