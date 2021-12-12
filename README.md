@@ -93,3 +93,13 @@ https://public.tableau.com/app/profile/lisa.bailey/viz/NFLPredictionModelAccurac
 ![weekly_comp](https://github.com/jake-viss/UW_Fintech_Project_2/blob/main/Resources/weekly_comp.PNG) 
 ![feature](https://github.com/jake-viss/UW_Fintech_Project_2/blob/main/Resources/random_forest_feature.PNG)
 ![plot](https://github.com/jake-viss/UW_Fintech_Project_2/blob/main/Resources/testing_outcomes.PNG) 
+
+## Contributors
+
+Jacob Vissering - jake.vissering@gmail.com
+
+Lisa Bailey - balllisaann@yahoo.com
+
+Niki van Dyck - nikivandyck@gmail.com
+
+Joshua Creveling - josh.creveling22@gmail.com
