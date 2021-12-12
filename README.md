@@ -43,7 +43,7 @@ Example: Denver Broncos vs. Detroit Lions (W14)
 * Broncos -375
 * Assuming you bet a sample of 100 bets on -375 favorites, you would need a prediction percentage of 79% to break even.
 
-To further explain, we do feel that the project was a success. We initially set out to create a model that could predict at least 60% of NFL games accurately. At that rate we thought there was a chance to make money. Our best model returnd an average accuracy throughout the season of 66% so we did succeed in hitting that mark. Furthermore, we now have multiple base models that we can update, iterate through, and try to improve. We also feel sucessfull for this reason.  
+We believe our project was a success. We initially set out to create a model that could predict at least 60% of NFL games accurately. At that rate we thought there was a chance to make money. Our best model returnd an average accuracy throughout the season of 66% so we did succeed in hitting that mark. Furthermore, we have multiple base models that we can update, iterate through, and try to improve. 
 
 However, our model does predict a lot of favored teams and when betting on favorites, the return on your wager is a lot less (than if it was an even match). Your losses hurt you more than your wins help you. Therefore, in order to make money while betting on favorites we would need a higher accuracy rate than 66%. We will need to do further analysis on our model to determine if it has an appropriate accuracy level when just considering betting on favorites.
 
